@@ -1,0 +1,1 @@
+ostotot = obj.getcostoTot();
